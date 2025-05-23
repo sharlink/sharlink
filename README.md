@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile!
 
+
+![Sharlink's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharlink&show_icons=true&theme=radical)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -9,7 +12,5 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: sharlink@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Sharlink's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharlink&show_icons=true&theme=radical)
 
 <!-- You can customize this README with more sections, badges, or images! -->
