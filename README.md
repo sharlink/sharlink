@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Profile views](https://komarev.com/ghpvc/?username=sharlink&style=flat-square)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=sharlink&style=flat-square)
 
 ![Sharlink's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharlink&show_icons=true&theme=radical)
 
