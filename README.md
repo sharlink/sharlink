@@ -1,4 +1,4 @@
-# Hi, I'm Sharlink! 👋
+# Hi, I'm Sharlin Kurusayyan! 👋
 
 Welcome to my GitHub profile!
 
